@@ -30,9 +30,7 @@ Uma pequena loja precisa informatizar o controle de seus produtos. O sistema per
 
 	•	Lista → armazena todos os produtos
 
-	•	Dicionário → cada produto tem as chaves:
-
-{"codigo": 101, "nome": "Arroz", "preco": 7.99, "quantidade": 10}
+	•	Dicionário → cada produto tem as chaves:{"codigo": 101, "nome": "Arroz", "preco": 7.99, "quantidade": 10}
 
 	•	Set → controla os códigos já cadastrados (evita duplicatas)
 
@@ -61,8 +59,8 @@ Uma escola deseja automatizar o registro de alunos, notas e médias para facilit
 🧱 Estrutura de dados usada
 
 	•	Dicionário principal: guarda os alunos e suas notas
-
- • Listas temporárias: usadas para registrar notas antes de transformá-las em tuplas
+ 
+    •Listas temporárias: usadas para registrar notas antes de transformá-las em tuplas
 
 	•	Sets: controlam alunos já cadastrados (sem duplicatas)
 
