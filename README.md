@@ -60,7 +60,7 @@ Uma escola deseja automatizar o registro de alunos, notas e médias para facilit
 
 	•	Dicionário principal: guarda os alunos e suas notas
  
-    •Listas temporárias: usadas para registrar notas antes de transformá-las em tuplas
+    • Listas temporárias: usadas para registrar notas antes de transformá-las em tuplas
 
 	•	Sets: controlam alunos já cadastrados (sem duplicatas)
 
@@ -68,7 +68,6 @@ Uma escola deseja automatizar o registro de alunos, notas e médias para facilit
   
 💾 Entrega
 
-	•	Arquivos principais:
 
 	•	projeto1.py
 	•	projeto2.py
